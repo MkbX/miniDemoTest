@@ -1,0 +1,34 @@
+body, html { 
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    }
+
+#gameTitle, #resultat{
+    color: rgba(148, 110, 110, 0.973);
+    position: fixed;
+    font-size: 50px;
+    font-style: italic;
+
+}
+
+#biff{
+    color: #ddb207;
+    position: fixed;
+    font-size: 30px;
+    font-style: italic;
+    top: 20px;
+    left: 20px;
+
+}
+
+#timer{
+    color: #a8a8a8;
+    position: fixed;
+    font-size: 30px;
+    left: 20px;
+    top: 60px;
+
+}
